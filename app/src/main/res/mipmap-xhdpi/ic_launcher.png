@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password">
+        <item quantity="one">ಪಾಸ್‍‌ವರ್ಡ್‌ ಸಾಕಷ್ಟು ಪ್ರಬಲವಾಗಿಲ್ಲ. ಕನಿಷ್ಠ %1$d ಅಕ್ಷರಗಳಿರಲಿ ಹಾಗೂ ಅದರಲ್ಲಿ ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳ ಮಿಕ್ಸ್‌ ಬಳಸಿ</item>
+        <item quantity="other">ಪಾಸ್‍‌ವರ್ಡ್‌ ಸಾಕಷ್ಟು ಪ್ರಬಲವಾಗಿಲ್ಲ. ಕನಿಷ್ಠ %1$d ಅಕ್ಷರಗಳಿರಲಿ ಹಾಗೂ ಅದರಲ್ಲಿ ಅಕ್ಷರಗಳು ಮತ್ತು ಸಂಖ್ಯೆಗಳ ಮಿಕ್ಸ್‌ ಬಳಸಿ</item>
+    </plurals>
+    <string name="fui_accessibility_logo">ಅಪ್ಲಿಕೇಶನ್‌ ಲೋಗೊ</string>
+    <string name="fui_auto_verified">ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪರಿಶೀಲಿಸಲಾಗಿದೆ</string>
+    <string name="fui_button_text_save">ಉಳಿಸಿ</string>
+    <string name="fui_button_text_send">ಕಳುಹಿಸಿ</string>
+    <string name="fui_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="fui_confirm_recovery_body">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಮರುಪಡೆಯಲು %1$s ಗೆ ಕಳುಹಿಸಲಾದ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.</string>
+    <string name="fui_continue">ಮುಂದುವರಿಸಿ</string>
+    <string name="fui_email_account_creation_error">ಇಮೇಲ್ ಖಾತೆ ನೋಂದಣಿ ಮಾಡುವಿಕೆಯು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="fui_email_hint">ಇಮೇಲ್</string>
+    <string name="fui_email_link_confirm_email_header">ಇಮೇಲ್ ಅನ್ನು ದೃಢೀಕರಿಸಿ</string>
+    <string name="fui_email_link_confirm_email_message">ಸೈನ್ ಇನ್ ಮುಂದುವರಿಸಲು ಇಮೇಲ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="fui_email_link_cross_device_linking_text">ನೀವು ಮೂಲತಃ %1$s ಅನ್ನು ನಿಮ್ಮ ಇಮೇಲ್ ಜೊತೆಗೆ ಸಂಪರ್ಕಿಸಲು ಬಯಸಿದ್ದೀರಿ ಆದರೆ ನೀವು ಸೈನ್ ಇನ್ ಮಾಡದಿರುವ ಬೇರೆ ಸಾಧನದಲ್ಲಿ ಲಿಂಕ್ ಅನ್ನು ತೆರೆದಿದ್ದೀರಿ.n\nನಿಮ್ಮ %1$s ಖಾತೆಯನ್ನು ಇನ್ನೂ ನೀವು ಸಂಪರ್ಕಿಸಲು ಬಯಸಿದರೆ, ನೀವು ಸೈನ್ ಇನ್ ಮಾಡದೇ ಇರುವ ಅದೇ ಸಾಧನದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ. ಇಲ್ಲದಿದ್ದರೆ ಈ ಸಾಧನದಲ್ಲಿ ಸೈನ್ ಇನ್ ಮಾಡಲು ಮುಂದುವರಿಸಿ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">%1$s ಸಹಾಯದೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="fui_email_link_different_anonymous_user_header">ಸೆಷನ್ ಕೊನೆಗೊಂಡಿದೆ</string>
+    <string name="fui_email_link_different_anonymous_user_message">ಈ ಸೈನ್-ಇನ್ ವಿನಂತಿಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಅಧಿವೇಶನವು ಅವಧಿ ಮೀರಿದೆ ಅಥವಾ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ.</string>
+    <string name="fui_email_link_dismiss_button">ವಜಾಗೊಳಿಸಿ</string>
+    <string name="fui_email_link_email_sent">%1$s ಇಮೇಲ್‌ಗೆ ಹೆಚ್ಚುವರಿ ಸೂಚನೆಗಳನ್ನು ಹೊಂದಿರುವ ಸೈನ್-ಇನ್ ಇಮೇಲ್ ಅನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ. ಸೈನ್-ಇನ್ ಪೂರ್ಣಗೊಳಿಸಲು ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="fui_email_link_header">ಸೈನ್-ಇನ್ ಇಮೇಲ್ ಕಳುಹಿಸಲಾಗಿದೆ\n</string>
+    <string name="fui_email_link_invalid_link_header">ಸೈನ್ ಇನ್ ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="fui_email_link_invalid_link_message">ಕ್ರಿಯೆ ಕೋಡ್ ಅಮಾನ್ಯವಾಗಿದೆ. ಕೋಡ್ ದೋಷಪೂರಿತವಾಗಿದ್ದರೆ, ಅವಧಿ ಮುಗಿದಿದ್ದರೆ ಅಥವಾ ಈಗಾಗಲೇ ಬಳಸಲ್ಪಟ್ಟಿದ್ದರೆ ಇದು ಸಂಭವಿಸಬಹುದು.</string>
+    <string name="fui_email_link_resend">ಪುನಃ ಕಳುಹಿಸಿ</string>
+    <string name="fui_email_link_trouble_getting_email_header">ಇಮೇಲ್ ಪಡೆಯುವಲ್ಲಿ ಸಮಸ್ಯೆ ಉಂಟಾಗುತ್ತಿದೆಯೇ?</

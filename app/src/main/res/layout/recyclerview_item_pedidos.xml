@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/txt_rv_fecha_hora"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_weight="2"
+        android:text="01/01/2020 09:00:00"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_rv_importe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="166dp"
+        android:layout_marginTop="47dp"
+        android:layout_weight="2"
+        android:text="$ 99"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_rv_metodo_envio"
+        app:layout_constraintStart_toEndOf="@+id/txt_rv_metodo_envio"
+        app:layout_constraintTop_toBottomOf="@+id/txt_rv_fecha_hora" />
+
+    <TextView
+        android:id="@+id/txt_rv_metodo_envio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:layout_weight="2"
+        android:text="envio"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="@+id/txt_rv_estado"
+        app:layout_constraintTop_toBottomOf="@+id/txt_rv_estado" />
+
+    <TextView
+        android:id="@+id/txt_rv_estado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="2"
+        android:text="nuevo"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="@+id/txt_rv_fecha_hora"
+        app:layout_constraintTop_toBottomOf="@+id/txt_rv_fecha_hora" />
+
+    <ImageView
+        android:id="@+id/iv_alerta"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="47dp"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_rv_fecha_hora"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/alarm" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fui_error_weak_password">
+        <item quantity="one">Sandi tidak cukup kuat. Gunakan minimal %1$d karakter dan merupakan kombinasi huruf dan angka</item>
+        <item quantity="other">Sandi tidak cukup kuat. Gunakan minimal %1$d karakter dan merupakan kombinasi huruf dan angka</item>
+    </plurals>
+    <string name="fui_accessibility_logo">Logo aplikasi</string>
+    <string name="fui_auto_verified">Nomor telepon terverifikasi secara otomatis</string>
+    <string name="fui_button_text_save">Simpan</string>
+    <string name="fui_button_text_send">Kirim</string>
+    <string name="fui_cancel">Batal</string>
+    <string name="fui_confirm_recovery_body">Ikuti petunjuk yang dikirimkan ke %1$s untuk memulihkan sandi Anda.</string>
+    <string name="fui_continue">Lanjutkan</string>
+    <string name="fui_email_account_creation_error">Pendaftaran akun email tidak berhasil</string>
+    <string name="fui_email_hint">Email</string>
+    <string name="fui_email_link_confirm_email_header">Konfirmasi email</string>
+    <string name="fui_email_link_confirm_email_message">Konfirmasi email untuk melanjutkan login</string>
+    <string name="fui_email_link_cross_device_linking_text">Anda sebelumnya ingin menghubungkan %1$s ke akun email Anda, tapi telah membuka link di perangkat berbeda yang tidak digunakan untuk login.\n\nJika Anda masih ingin menghubungkan ke akun %1$s, buka link di perangkat yang sama yang digunakan untuk login. Jika tidak, ketuk Lanjutkan untuk login di perangkat ini.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Login dengan %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Sesi diakhiri</string>
+    <string name="fui_email_link_different_anonymous_user_message">Sesi yang terkait dengan permintaan login ini sudah berakhir atau sudah dihapus.</string>
+    <string name="fui_email_link_dismiss_button">Tutup</string>
+    <string name="fui_email_link_email_sent">Email login dengan petunjuk tambahan telah dikirim ke %1$s. Buka email Anda untuk menyelesaikan proses login.</string>
+    <string name="fui_email_link_header">Email login dikirim\n</string>
+    <string name="fui_email_link_invalid_link_header">Tidak dapat menyelesaikan login</string>
+    <string name="fui_email_link_invalid_link_message">Kode tindakan tidak valid. Ini bisa terjadi jika kode rusak, sudah tidak berlaku, atau sudah digunakan.</string>
+    <string name="fui_email_link_resend">Kirim ulang</string>
+    <string name="fui_email_link_trouble_getting_email_header">Ada masalah saat mendapatkan email?
